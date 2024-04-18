@@ -1,0 +1,1 @@
+**Run `python helper.py {NDice} {NSide} {LTarget} {UTarget} {NGames} {M}`**
